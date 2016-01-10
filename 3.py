@@ -1,7 +1,7 @@
 """
 Advent of Code Day 3
 Hector Ramos
-1/10/2016
+1/9/2016
 """
 
 def uniqueHousesVisited(s):

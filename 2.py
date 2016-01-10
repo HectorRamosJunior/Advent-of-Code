@@ -1,7 +1,7 @@
 """
 Advent of Code Day 2
 Hector Ramos
-1/10/2016
+1/9/2016
 """
 from input2 import s    #string input was rather long
 
